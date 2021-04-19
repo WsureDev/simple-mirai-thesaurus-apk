@@ -1,0 +1,3 @@
+[submodule "simple-mirai-thesaurus"]
+	path = simple-mirai-thesaurus
+	url = https://github.com/WsureDev/simple-mirai-thesaurus.git
